@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">加载指示器视图</string>
+    <string name="show">显示</string>
+    <string name="hint">隐藏</string>
+</resources>
